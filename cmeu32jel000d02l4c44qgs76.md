@@ -5,7 +5,7 @@ seoDescription: "Explore the TryHackMe Introduction to Phishing simulator, learn
 datePublished: Wed Aug 27 2025 14:41:45 GMT+0000 (Coordinated Universal Time)
 cuid: cmeu32jel000d02l4c44qgs76
 slug: introduction-to-phishing-tryhackme-simulator-my-overview
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756289404799/0e35ab7f-45c1-402d-be26-1e59397755bd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756305792072/6390dddb-325f-4724-8de5-5ef9c915de4c.png
 tags: soc, tryhackme, simulator
 
 ---
