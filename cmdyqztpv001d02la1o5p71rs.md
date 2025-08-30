@@ -5,7 +5,6 @@ seoDescription: "Discover how to investigate anomalies and backdoor creation usi
 datePublished: Tue Aug 05 2025 16:22:51 GMT+0000 (Coordinated Universal Time)
 cuid: cmdyqztpv001d02la1o5p71rs
 slug: investigating-with-splunk-tryhackme-write-up
-canonical: https://medium.com/@forrestcaffray/benign-tryhackme-5f01dfd0f386
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754411546734/2d07884c-adf7-47a6-a859-4a378c39be61.png
 tags: technical-writing-1, tryhackme, tryhackme-walkthrough, technical-writeup
 
